@@ -9,4 +9,4 @@
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Apache Hadoop -66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/> <img src="https://img.shields.io/badge/Apache Spark -E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL -4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=andrewchea4&count_private=true&bg_color=EBE8FF&title_color=4A496F&show_icons=true&icon_color=4A496F&text_color=353535&custom_title=Status)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=andrewchea4&count_private=true&bg_color=FFFFFF&title_color=4A496F&show_icons=true&icon_color=4A496F&text_color=353535&custom_title=Status)](https://github.com/anuraghazra/github-readme-stats)
